@@ -8,5 +8,20 @@ namespace Gruberoo
 {
     internal class SpecialOffer
     {
+        private string offerCode;
+        private string offerDesc;
+        private double discount;
+
+        public SpecialOffer(string code, string desc, double discountPercent)
+        {
+            offerCode = code;
+            offerDesc = desc;
+            discount = discountPercent;
+        }
+
+        public override string ToString()
+        {
+            return $"{offerCode} - {offerDesc} ({discount:0.##}%)";
+        }
     }
 }
