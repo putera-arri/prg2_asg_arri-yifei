@@ -1,4 +1,9 @@
-﻿using System;
+﻿//==========================================================
+// Student Number : S10275267
+// Student Name   : Arri
+// Partner Name   : yifei
+//==========================================================
+using System;
 using System.Collections.Generic;
 using System.IO;
 using Gruberoo;
