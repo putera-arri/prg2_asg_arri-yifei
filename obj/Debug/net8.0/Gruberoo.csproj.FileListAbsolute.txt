@@ -1,0 +1,15 @@
+C:\prog proj\arri\arri\bin\Debug\net8.0\Gruberoo.exe
+C:\prog proj\arri\arri\bin\Debug\net8.0\Gruberoo.deps.json
+C:\prog proj\arri\arri\bin\Debug\net8.0\Gruberoo.runtimeconfig.json
+C:\prog proj\arri\arri\bin\Debug\net8.0\Gruberoo.dll
+C:\prog proj\arri\arri\bin\Debug\net8.0\Gruberoo.pdb
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.AssemblyInfoInputs.cache
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.AssemblyInfo.cs
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.csproj.CoreCompileInputs.cache
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.sourcelink.json
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.dll
+C:\prog proj\arri\arri\obj\Debug\net8.0\refint\Gruberoo.dll
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.pdb
+C:\prog proj\arri\arri\obj\Debug\net8.0\Gruberoo.genruntimeconfig.cache
+C:\prog proj\arri\arri\obj\Debug\net8.0\ref\Gruberoo.dll
