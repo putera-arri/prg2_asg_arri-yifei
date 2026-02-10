@@ -1,0 +1,14 @@
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\bin\Debug\net8.0\foodorder_s10275267.exe
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\bin\Debug\net8.0\foodorder_s10275267.deps.json
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\bin\Debug\net8.0\foodorder_s10275267.runtimeconfig.json
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\bin\Debug\net8.0\foodorder_s10275267.dll
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\bin\Debug\net8.0\foodorder_s10275267.pdb
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.AssemblyInfoInputs.cache
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.AssemblyInfo.cs
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.csproj.CoreCompileInputs.cache
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.dll
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\refint\foodorder_s10275267.dll
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.pdb
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\foodorder_s10275267.genruntimeconfig.cache
+C:\Users\yowad\Downloads\PRG_foodorder_Arri\PRG_foodorder_Arri\obj\Debug\net8.0\ref\foodorder_s10275267.dll

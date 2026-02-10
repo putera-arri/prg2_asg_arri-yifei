@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "foodorder_s10273460/1.0.0": {
+        "runtime": {
+          "foodorder_s10273460.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "foodorder_s10273460/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
